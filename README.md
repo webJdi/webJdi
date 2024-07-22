@@ -1,22 +1,22 @@
 <h1 align="center">Hi 👋, I'm Suman</h1>
 <h3 align="center">A passionate ML engineer and front-end developer from India</h3>
 
-<h3 align="left">Connect with me:</h3>
-<a href="https://www.linkedin.com/in/suman-senapati-9b4776280/" target="_blank">
+<h3 align="center">Connect with me:</h3>
+<a align="center" href="https://www.linkedin.com/in/suman-senapati-9b4776280/" target="_blank">
   <div style="text-decoration:none; padding: 0.5em; background-color: #1abc9c;">
   LinkedIn
 </div>
 </a>
-<a style="text-decoration:none; padding: 0.5em; background-color: #1abc9c;" href="https://www.kaggle.com/webjdi" target="_blank">
+<a align="center" style="text-decoration:none; padding: 0.5em; background-color: #1abc9c;" href="https://www.kaggle.com/webjdi" target="_blank">
   <div>
   Kaggle
   </div>
 </a>
 
-<p align="left">
+<p align="center">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools:</h3>
 
 <p align="center">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
