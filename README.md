@@ -3,7 +3,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <a style="text-decoration:none; padding: 0.5em; background-color: #1abc9c;" href="https://www.linkedin.com/in/suman-senapati-9b4776280/" target="_blank">LinkedIn</a>
-<a href="https://www.kaggle.com/webjdi" target="_blank">Kaggle</a>
+<a style="text-decoration:none; padding: 0.5em; background-color: #1abc9c;" href="https://www.kaggle.com/webjdi" target="_blank">Kaggle</a>
 
 <p align="left">
 </p>
