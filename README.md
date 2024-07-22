@@ -33,6 +33,7 @@
   </a>
   
   </p>
+  
   <p align="center">
 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
@@ -42,8 +43,9 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/>
   </a>
 
-  <div height="100"></div>
-  
+  </p>
+  <p align="center">
+    
   <a href="https://opencv.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="60" height="60"/>
   </a>
@@ -63,7 +65,8 @@
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="60" height="60"/>
   </a>
 
-  <div height="100"></div>
+  </p>
+  <p align="center">
   
   <a href="https://d3js.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="60" height="60"/>
