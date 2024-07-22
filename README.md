@@ -41,7 +41,8 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/>
   </a>
 
-  <div></div>
+  <div height="100"></div>
+  
   <a href="https://opencv.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="60" height="60"/>
   </a>
@@ -61,7 +62,7 @@
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="60" height="60"/>
   </a>
 
-  <div></div>
+  <div height="100"></div>
   
   <a href="https://d3js.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="60" height="60"/>
@@ -75,9 +76,9 @@
   
   
   
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
+  <!-- <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="60" height="60"/>
-  </a>
+  </a> -->
   
   
    
