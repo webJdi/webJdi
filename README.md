@@ -2,6 +2,9 @@
 <h3 align="center">A passionate ML engineer and front-end developer from India</h3>
 
 <h3 align="left">Connect with me:</h3>
+
+<h5 align="left> <a href="https://www.linkedin.com/in/suman-senapati-9b4776280/" target="_blank">LinkedIn</a></h5>
+
 <p align="left">
 </p>
 
