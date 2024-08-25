@@ -12,10 +12,11 @@
   Kaggle
   </div>
 </a>
-<a align="center" href="https://visitcount.itsvg.in">
+
+<p align="center">
+  <a align="center" href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=webjdi&label=Profile%20Views&color=0&icon=6&pretty=false" />
 </a>
-<p align="center">
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
