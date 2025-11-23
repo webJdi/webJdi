@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Suman</h1>
-<h3 align="center">A passionate ML engineer and front-end developer from India</h3>
+<h3 align="center">A passionate ML engineer and full-stack developer in O&G industry from India</h3>
 
 <h3 align="center">Connect with me:</h3>
 <a align="center" href="https://www.linkedin.com/in/suman-senapati-9b4776280/" target="_blank">
