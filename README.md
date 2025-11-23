@@ -94,8 +94,3 @@
 
 <img src="https://raw.githubusercontent.com/gv3Dev/gv3Dev/a9a2c3023baa8e1fcce30026f8bf9b8081ac210b/github-snake.svg" width="100%">
 
-<p align="center" margin-top="20px">
-  <a align="center" href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=webjdi&label=Profile%20Views&color=0&icon=6&pretty=false" />
-</a>
-</p>
