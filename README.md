@@ -92,5 +92,5 @@
   
 
 
-<img src="https://raw.githubusercontent.com/gv3Dev/gv3Dev/a9a2c3023baa8e1fcce30026f8bf9b8081ac210b/github-snake.svg" width="100%">
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
 
